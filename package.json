@@ -1,0 +1,26 @@
+{
+  "name": "mongo-db-api",
+  "version": "1.0.0",
+  "description": "Just a back end for my tests ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "myPort=8000 nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorrentinopasquale/MongoDBAPI.git"
+  },
+  "keywords": [
+    "SorrentinoPasquale"
+  ],
+  "author": "SorrentinoPasquale",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.11.13"
+  }
+}
