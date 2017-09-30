@@ -1,0 +1,10 @@
+[{
+  "sex": "male",
+  "job": "senior software engineer",
+  "names": {
+    "firstName": "Pasquale",
+    "lastName": "Sorrentino"
+  },
+  "age": 28,
+  "married": false
+}]

@@ -1,0 +1,11 @@
+{"menu": {
+  "id": "file",
+  "value": "File",
+  "actions": {
+    "menuitem": [
+      {"value": "creation", "onclick": "newFile()"},
+      {"value": "opening", "onclick": "viewFile()"},
+      {"value": "removing", "onclick": "removeFile()"}
+    ]
+  }
+}}

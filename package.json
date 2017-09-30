@@ -1,5 +1,5 @@
 {
-  "name": "mongo-db-api",
+  "name": "fake-JSON-backend",
   "version": "1.0.0",
   "description": "Just a back end for my tests ",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sorrentinopasquale/MongoDBAPI.git"
+    "url": "https://github.com/sorrentinopasquale/fake-JSON-backend.git"
   },
   "keywords": [
     "SorrentinoPasquale"
@@ -20,7 +20,6 @@
     "nodemon": "^1.12.1"
   },
   "dependencies": {
-    "express": "^4.16.1",
-    "mongoose": "^4.11.13"
+    "express": "^4.16.1"
   }
 }
